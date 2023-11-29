@@ -1,0 +1,10 @@
+com\evaluacion\prueba\tec\util\InvalidUserDataException.class
+com\evaluacion\prueba\tec\controller\PruebaTecnicaController.class
+com\evaluacion\prueba\tec\model\Registro$Telefono.class
+com\evaluacion\prueba\tec\util\PatronClave.class
+com\evaluacion\prueba\tec\model\Registro.class
+com\evaluacion\prueba\tec\repository\RegistroRepository.class
+com\evaluacion\prueba\tec\PruebaTecApplication.class
+com\evaluacion\prueba\tec\util\GenerateJWT.class
+com\evaluacion\prueba\tec\util\PatronClaveValidator.class
+com\evaluacion\prueba\tec\model\Phone.class
